@@ -1,4 +1,4 @@
-import {LoggingWinston} from "@google-cloud/logging-winston/build/src/winston3";
+import {LoggingWinston} from "@google-cloud/logging-winston";
 import * as w from "winston";
 
 const combine = w.format.combine;

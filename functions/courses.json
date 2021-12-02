@@ -1,20 +1,20 @@
 {
-  "wwi2018a": {
+ "wwi2018a": {
     "title": "WWI2018A",
-    "room": "4.12",
+    "room": "4.11",
     "address": "Rotebühlplatz 41/1, 70178 Stuttgart",
     "url": "https://www.dhbw-stuttgart.de/studierendenportale/wirtschaftsinformatik/Vorlesungsplaene_WI/Vorlesungsplaene_Wenger/Vorlesungsplan_2018A_5Sem.pdf"
   },
   "wwi2019a": {
     "title": "WWI2019A",
-    "room": "4.12",
+    "room": "4.10",
     "address": "Rotebühlplatz 41/1, 70178 Stuttgart",
     "url": "https://www.dhbw-stuttgart.de/studierendenportale/wirtschaftsinformatik/Vorlesungsplaene_WI/Vorlesungsplaene_Wenger/Vorlesungsplan_2019A_5Sem.pdf"
   },
   "wwi2020a": {
     "title": "WWI2020A",
-    "room": "4.12",
+    "room": "4.10",
     "address": "Rotebühlplatz 41/1, 70178 Stuttgart",
-    "url": "https://www.dhbw-stuttgart.de/studierendenportale/wirtschaftsinformatik/Vorlesungsplaene_WI/Vorlesungsplaene_Wenger/Vorlesungsplan_WWI2020A_1.Sem.pdf"
+    "url": "https://www.dhbw-stuttgart.de/studierendenportale/wirtschaftsinformatik/Vorlesungsplaene_WI/Vorlesungsplaene_Wenger/Vorlesungsplan_WWI2020A_3.Sem.pdf"
   }
 }

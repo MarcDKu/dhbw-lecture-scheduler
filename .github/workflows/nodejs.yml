@@ -27,6 +27,6 @@ jobs:
         npm install -g firebase-tools
     - name: firebase deploy
       run: |
-        firebase deploy --project dhbw-lecture-scheduler --token ${{ secrets.FIREBASE_TOKEN }}
+        firebase deploy --project dhbw-lecture-scheduler-cda92
       env:
         CI: true

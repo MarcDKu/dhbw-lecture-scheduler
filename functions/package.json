@@ -18,7 +18,7 @@
     "@firebase/testing": "^0.20.11",
     "@google-cloud/logging-winston": "^4.0.3",
     "@types/cors": "^2.8.5",
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "firebase-admin": "^9.4.2",
